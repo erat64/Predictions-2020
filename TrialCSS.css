@@ -3,7 +3,7 @@
 font-family: sans-serif
 }
 body {
- background-color: #7395AE;
+ background-color: #0B0C10;
  color: #FFFFFF;
 }
 td {
@@ -12,10 +12,8 @@ td {
  font: bold 350% fantasy;
 }
 p {
- background-color: #FFFF33;
- color: #333300;
+ color: #c5c6c7;
  text-align: left;
- border: 3px groove #FFFF33;
 }
 head {
  background-color: #379683;
@@ -28,8 +26,8 @@ header#masthead {
 #colorstrip{
     width: 100%; height: 10px;
     border-style: solid;
-    border-color: white;
-    background-color: white;
+    border-color: #45A29E;
+    background-color: #45A29E;
 }
 td, td a {
  background-color: #5e5e5e;
@@ -40,4 +38,7 @@ td, td a {
 table {
   border-collapse: separate;
   border: 5px #000000 solid;
+}
+h1{
+	color: #66FcF1;
 }
