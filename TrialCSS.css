@@ -26,14 +26,14 @@ header#masthead {
 #colorstrip{
     width: 100%; height: 10px;
     border-style: solid;
-    border-color: #45A29E;
-    background-color: #45A29E;
+    border-color: #c5c6c7;
+    background-color: #c5c6c7;
 }
 td, td a {
- background-color: #5e5e5e;
- color: #ffffff;
+ background-color: #66FcF1;
+ color: #0B0C10;
  text-align: center;
- border: 2px #5e5e5e solid;
+ border: 2px #66FcF1 solid;
 }
 table {
   border-collapse: separate;
@@ -41,4 +41,16 @@ table {
 }
 h1{
 	color: #66FcF1;
+	text-align: center;
+}
+input{
+	color: #66FcF1;
+	width: 75px;
+	height: 35px;
+	text-align: center;
+	background-color: #0B0C10;
+	border: 2px #0B0C10 solid;
+}
+#button{
+    border: 2px #66FcF1 solid;
 }
