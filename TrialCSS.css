@@ -9,7 +9,7 @@ body {
 td {
  color: #ffffff;
  text-align: center;
- font: bold 350% fantasy;
+ font: bold 300% fantasy;
 }
 p {
  color: #c5c6c7;
@@ -53,4 +53,5 @@ input{
 }
 #button{
     border: 2px #66FcF1 solid;
+    width: 75px;
 }
